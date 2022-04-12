@@ -401,4 +401,118 @@ files = [
     sex: "male",
     age_in_months: 25
   },
+  {
+    files: ["0068.wav", "0068.ogg", "0068.mp3"],
+    word_phrase: "dog",
+    sex: "male",
+    age_in_months: 25
+  },
+  {
+    files: ["0069.wav", "0069.ogg", "0069.mp3"],
+    word_phrase: "cookie",
+    sex: "male",
+    age_in_months: 25
+  },
+  {
+    files: ["0070.wav", "0070.ogg", "0070.mp3"],
+    word_phrase: "rabbit",
+    sex: "male",
+    age_in_months: 25
+  },
+  {
+    files: ["0071.wav", "0071.ogg", "0071.mp3"],
+    word_phrase: "yellow",
+    sex: "male",
+    age_in_months: 25
+  },
+  {
+    files: ["0072.wav", "0072.ogg", "0072.mp3"],
+    word_phrase: "jump",
+    sex: "male",
+    age_in_months: 25
+  },
+  {
+    files: ["0073.wav", "0073.ogg", "0073.mp3"],
+    word_phrase: "dump",
+    sex: "male",
+    age_in_months: 25
+  },
+  {
+    files: ["0074.wav", "0074.ogg", "0074.mp3"],
+    word_phrase: "apple",
+    sex: "male",
+    age_in_months: 25
+  },
+  {
+    files: ["0075.wav", "0075.ogg", "0075.mp3"],
+    word_phrase: "paper",
+    sex: "male",
+    age_in_months: 25
+  },
+  {
+    files: ["0076.wav", "0076.ogg", "0076.mp3"],
+    word_phrase: "door",
+    sex: "male",
+    age_in_months: 25
+  },
+  {
+    files: ["0077.wav", "0077.ogg", "0077.mp3"],
+    word_phrase: "chips",
+    sex: "male",
+    age_in_months: 25
+  },
+  {
+    files: ["0078.wav", "0078.ogg", "0078.mp3"],
+    word_phrase: "shoe",
+    sex: "male",
+    age_in_months: 25
+  },
+  {
+    files: ["0079.wav", "0079.ogg", "0079.mp3"],
+    word_phrase: "fish",
+    sex: "male",
+    age_in_months: 25
+  },
+  {
+    files: ["0080.wav", "0080.ogg", "0080.mp3"],
+    word_phrase: "tie",
+    sex: "male",
+    age_in_months: 25
+  },
+  {
+    files: ["0081.wav", "0081.ogg", "0081.mp3"],
+    word_phrase: "bus",
+    sex: "male",
+    age_in_months: 25
+  },
+  {
+    files: ["0082.wav", "0082.ogg", "0082.mp3"],
+    word_phrase: "nose",
+    sex: "male",
+    age_in_months: 25
+  },
+  {
+    files: ["0083.wav", "0083.ogg", "0083.mp3"],
+    word_phrase: "doze",
+    sex: "male",
+    age_in_months: 25
+  },
+  {
+    files: ["0084.wav", "0084.ogg", "0084.mp3"],
+    word_phrase: "banana",
+    sex: "male",
+    age_in_months: 25
+  },
+  {
+    files: ["0085.wav", "0085.ogg", "0085.mp3"],
+    word_phrase: "toad",
+    sex: "male",
+    age_in_months: 25
+  },
+  {
+    files: ["0086.wav", "0086.ogg", "0086.mp3"],
+    word_phrase: "blue",
+    sex: "male",
+    age_in_months: 25
+  }
 ]

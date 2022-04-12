@@ -1,4 +1,4 @@
-[
+files = [
   {
     files: ["0001.wav", "0001.ogg", "0001.mp3"],
     word_phrase: "I want to eat egg",

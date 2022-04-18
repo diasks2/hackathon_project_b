@@ -24,3 +24,9 @@ puts "Male (62 months): #{male_62_words.join(", ")}"
 puts "Count: #{male_62_words.length}"
 
 ```
+
+## Example Pronunciations
+
++ [blue](https://en.wiktionary.org/wiki/File:en-us-blue.ogg)
++ [bus](https://en.wiktionary.org/wiki/File:en-us-bus.ogg)
++ [nose](https://en.wiktionary.org/wiki/File:en-us-nose.ogg)

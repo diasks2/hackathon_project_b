@@ -514,5 +514,179 @@ files = [
     word_phrase: "blue",
     sex: "male",
     age_in_months: 25
+  },
+  {
+    files: ["0087.wav", "0087.ogg", "0087.mp3"],
+    word_phrase: "bus",
+    sex: "female",
+    age_in_months: 24
+  },
+  {
+    files: ["0088.wav", "0088.ogg", "0088.mp3"],
+    word_phrase: "nose",
+    sex: "female",
+    age_in_months: 24
+  },
+  {
+    files: ["0089.wav", "0089.ogg", "0089.mp3"],
+    word_phrase: "doze",
+    sex: "female",
+    age_in_months: 24
+  },
+  {
+    files: ["0090.wav", "0090.ogg", "0090.mp3"],
+    word_phrase: "banana",
+    sex: "female",
+    age_in_months: 24
+  },
+  {
+    files: ["0091.wav", "0091.ogg", "0091.mp3"],
+    word_phrase: "blue",
+    sex: "female",
+    age_in_months: 24
+  },
+  {
+    files: ["0092.wav", "0092.ogg", "0092.mp3"],
+    word_phrase: "toad",
+    sex: "female",
+    age_in_months: 24
+  },
+  {
+    files: ["0093.wav", "0093.ogg", "0093.mp3"],
+    word_phrase: "thank you",
+    sex: "female",
+    age_in_months: 24
+  },
+  {
+    files: ["0094.wav", "0094.ogg", "0094.mp3"],
+    word_phrase: "mommy",
+    sex: "female",
+    age_in_months: 24
+  },
+  {
+    files: ["0095.wav", "0095.ogg", "0095.mp3"],
+    word_phrase: "daddy",
+    sex: "female",
+    age_in_months: 24
+  },
+  {
+    files: ["0096.wav", "0096.ogg", "0096.mp3"],
+    word_phrase: "fire engine",
+    sex: "female",
+    age_in_months: 24
+  },
+  {
+    files: ["0097.wav", "0097.ogg", "0097.mp3"],
+    word_phrase: "ambulance",
+    sex: "female",
+    age_in_months: 24
+  },
+  {
+    files: ["0098.wav", "0098.ogg", "0098.mp3"],
+    word_phrase: "milk",
+    sex: "female",
+    age_in_months: 24
+  },
+  {
+    files: ["0099.wav", "0099.ogg", "0099.mp3"],
+    word_phrase: "fork",
+    sex: "female",
+    age_in_months: 24
+  },
+  {
+    files: ["0100.wav", "0100.ogg", "0100.mp3"],
+    word_phrase: "spoon",
+    sex: "female",
+    age_in_months: 24
+  },
+  {
+    files: ["0101.wav", "0101.ogg", "0101.mp3"],
+    word_phrase: "monster",
+    sex: "female",
+    age_in_months: 24
+  },
+  {
+    files: ["0102.wav", "0102.ogg", "0102.mp3"],
+    word_phrase: "bat",
+    sex: "female",
+    age_in_months: 24
+  },
+  {
+    files: ["0103.wav", "0103.ogg", "0103.mp3"],
+    word_phrase: "hat",
+    sex: "female",
+    age_in_months: 24
+  },
+  {
+    files: ["0104.wav", "0104.ogg", "0104.mp3"],
+    word_phrase: "dog",
+    sex: "female",
+    age_in_months: 24
+  },
+  {
+    files: ["0105.wav", "0105.ogg", "0105.mp3"],
+    word_phrase: "cookie",
+    sex: "female",
+    age_in_months: 24
+  },
+  {
+    files: ["0106.wav", "0106.ogg", "0106.mp3"],
+    word_phrase: "rabbit",
+    sex: "female",
+    age_in_months: 24
+  },
+  {
+    files: ["0107.wav", "0107.ogg", "0107.mp3"],
+    word_phrase: "yellow",
+    sex: "female",
+    age_in_months: 24
+  },
+  {
+    files: ["0108.wav", "0108.ogg", "0108.mp3"],
+    word_phrase: "jump",
+    sex: "female",
+    age_in_months: 24
+  },
+  {
+    files: ["0109.wav", "0109.ogg", "0109.mp3"],
+    word_phrase: "dump",
+    sex: "female",
+    age_in_months: 24
+  },
+  {
+    files: ["0110.wav", "0110.ogg", "0110.mp3"],
+    word_phrase: "apple",
+    sex: "female",
+    age_in_months: 24
+  },
+  {
+    files: ["0111.wav", "0111.ogg", "0111.mp3"],
+    word_phrase: "paper",
+    sex: "female",
+    age_in_months: 24
+  },
+  {
+    files: ["0112.wav", "0112.ogg", "0112.mp3"],
+    word_phrase: "door",
+    sex: "female",
+    age_in_months: 24
+  },
+  {
+    files: ["0113.wav", "0113.ogg", "0113.mp3"],
+    word_phrase: "shoe",
+    sex: "female",
+    age_in_months: 24
+  },
+  {
+    files: ["0114.wav", "0114.ogg", "0114.mp3"],
+    word_phrase: "fish",
+    sex: "female",
+    age_in_months: 24
+  },
+   {
+    files: ["0115.wav", "0115.ogg", "0115.mp3"],
+    word_phrase: "tie",
+    sex: "female",
+    age_in_months: 24
   }
 ]

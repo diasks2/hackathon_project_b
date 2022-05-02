@@ -49,3 +49,7 @@ These are files in the formats .mp3, .wav, and .ogg of example pronunications fo
 + [blue](https://en.wiktionary.org/wiki/File:en-us-blue.ogg)
 + [bus](https://en.wiktionary.org/wiki/File:en-us-bus.ogg)
 + [nose](https://en.wiktionary.org/wiki/File:en-us-nose.ogg)
++ [chimpanzee](https://en.wiktionary.org/wiki/File:en-us-chimpanzee.ogg)
++ [gorilla](https://en.wiktionary.org/wiki/File:en-us-gorilla.ogg)
++ [strawberry](https://en.wiktionary.org/wiki/File:En-us-strawberry.ogg)
+

@@ -1,4 +1,4 @@
-# 1st Annual Hackathon Audio Files (Project B)
+# 1st Annual Hackathon (Project B)
 
 + Allow a therapist to score a sound recording (the output from Project A)
     + Should allow error analysis down to the phoneme level
@@ -9,7 +9,7 @@
 
 ## Included files
 
-`audio_files`
+`/audio_files`
 
 These are files in the formats .mp3, .wav, and .ogg of children attempting to say various words or phrases. See `audio_files.rb` for the complete list.
 
@@ -40,7 +40,9 @@ puts "Count: #{male_62_words.length}"
 
 ## Example Pronunciations
 
-These are example pronunications for some of the same words above.
+`/example_pronunciations`
+
+These are files in the formats .mp3, .wav, and .ogg of example pronunications for some of the same words as above.
 
 + [blue](https://en.wiktionary.org/wiki/File:en-us-blue.ogg)
 + [bus](https://en.wiktionary.org/wiki/File:en-us-bus.ogg)

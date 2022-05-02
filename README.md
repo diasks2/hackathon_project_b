@@ -1,5 +1,7 @@
 # 1st Annual Hackathon (Project B)
 
+Topic: **Scoring a sound recording**
+
 + Allow a therapist to score a sound recording (the output from Project A)
     + Should allow error analysis down to the phoneme level
 + Ideas to consider

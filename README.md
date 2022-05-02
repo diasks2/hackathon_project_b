@@ -1,5 +1,18 @@
 # 1st Annual Hackathon Audio Files (Project B)
 
++ Allow a therapist to score a sound recording (the output from Project A)
+    + Should allow error analysis down to the phoneme level
++ Ideas to consider
+    + Should you have them listen to just the audio first (prior to showing the attempted word or phrase)?
+    + Is there a way to gamify it?
+    + Should it be accompanied with a sound file demonstrating the correct or standard pronunciation?
+
+## Included files
+
+`audio_files`
+
+These are files in the formats .mp3, .wav, and .ogg of children attempting to say various words or phrases. See `audio_files.rb` for the complete list.
+
 ```ruby
 
 male_25_words = []
@@ -26,6 +39,8 @@ puts "Count: #{male_62_words.length}"
 ```
 
 ## Example Pronunciations
+
+These are example pronunications for some of the same words above.
 
 + [blue](https://en.wiktionary.org/wiki/File:en-us-blue.ogg)
 + [bus](https://en.wiktionary.org/wiki/File:en-us-bus.ogg)
